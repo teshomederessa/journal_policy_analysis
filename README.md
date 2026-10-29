@@ -224,3 +224,4 @@ Model labels are `model<ID>_pois_<k>k` for the primary outcome and `model<ID>_in
 | `results/` | Fitted samples (`.rds`), `coda` objects, summary and DIC tables (`.csv`), figures (`.pdf`) |
 | `diagnostics/` | Trace, density and ACF plots (`.pdf`), DIC text summaries (`.txt`) |
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23677882.svg)](https://doi.org/10.5281/zenodo.23677882)
