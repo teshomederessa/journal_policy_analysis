@@ -34,7 +34,7 @@ Code and supplementary information for an observational study evaluating whether
 
 1. Clone the repository and create the `data/`, `scripts/`, `results/` and `diagnostics/` folders locally.
 2. Put the prepared datasets in `data/`: `df_descriptive.csv` (read by script 2) and `df_sample.csv` (read by scripts 3 and 6 and by `99_functions.R`).
-3. Open the project as an **RStudio Project**. The **here** package needs this to resolve paths from the repository root.
+3. Open the project as an `JournalPolicy.Rproj`. The **here** package needs this to resolve paths from the repository root.
 4. Install the required packages (developed and tested under R 4.5.1):
 
 ```r
