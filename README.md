@@ -49,8 +49,7 @@ Code and supplementary information for an observational study evaluating whether
 ```text
 .
 ├── JournalPolicy.Rproj  # RStudio project file (open this first)
-├── data/                # Prepared datasets (df_sample.csv, df_descriptive.csv)
-│                        # and overview_of_publication_filters.pdf
+├── data/                # Prepared datasets (df_sample.csv, df_descriptive.csv) and overview_of_publication_filters.pdf
 ├── scripts/             # Analysis R scripts (numbered pipeline order) and sample_size.R
 ├── results/             # Model outputs, summary tables, figures
 ├── diagnostics/         # MCMC diagnostics (trace/density/ACF PDFs, DIC summaries)
