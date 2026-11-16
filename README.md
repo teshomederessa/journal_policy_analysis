@@ -116,7 +116,7 @@ Solid arrows show the order of the steps. The dotted "DIC table" arrows show tha
 |:---|:---|
 | `df_descriptive.csv` | Journal-year-level data for descriptive summaries, including counts of articles excluded from the main analysis. |
 | `df_sample.csv` | Journal-year-level data restricted to articles containing bar graphs for continuous data, informative visualizations, or both. Used for the primary and secondary analyses. |
-| `overview_of_publication_filters.pdf` | Overview of the publication filters, provided as part of the [preregistered report](https://osf.io/tcyxg/overview). Not read by any script. |
+| `overview_of_publication_filters.pdf` | Overview of the publication filters, provided as part of the [preregistered report](https://osf.io/tcyxg/overview).  |
 
 #### Data dictionary
 
