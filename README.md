@@ -151,9 +151,6 @@ Sourced by scripts 3–6. Besides the model-fitting and diagnostic helpers (`bui
 | Primary (`n_bar`) | `compute_dic_bar()` | `build_dic_bar_table()` | `results/dic_comparison_bar.csv` |
 | Secondary (`n_info`) | `compute_dic_info()` | `build_dic_info_table()` | `results/dic_comparison_info.csv` |
 
-- The DIC functions pick the matching outcome data (`dic_data_bar` / `dic_data_info`) and the model-specific log-likelihood (non-nested, 3-level nested, or field hierarchy) automatically, so nothing needs to be commented or uncommented to switch outcome.
-- `compute_dic_bar()` stops if the label contains `_info_`, and `compute_dic_info()` stops if it does not. The table builders use `_info_` in the label to separate the two outcomes when they discover saved DIC files.
-
 #### `2__descriptives.R`
 
 Reads `data/df_descriptive.csv`, recodes field names for publication, and produces descriptive summaries and plots (journal-sample counts, policy adoption, follow-up).
