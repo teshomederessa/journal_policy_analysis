@@ -48,10 +48,11 @@ Code and supplementary information for an observational study evaluating whether
 
 ```text
 .
-├── data/          # Prepared datasets (df_sample.csv, df_descriptive.csv)
-├── scripts/       # All analysis R scripts (numbered pipeline order)
-├── results/       # Model outputs, summary tables, figures
-└── diagnostics/   # MCMC diagnostics (trace/density/ACF PDFs, DIC summaries)
+├── JournalPolicy.Rproj  # RStudio project file (open this first)
+├── data/                # Prepared datasets (df_sample.csv, df_descriptive.csv)
+├── scripts/             # All analysis R scripts (numbered pipeline order)
+├── results/             # Model outputs, summary tables, figures
+└── diagnostics/         # MCMC diagnostics (trace/density/ACF PDFs, DIC summaries)
 ```
 
 ### Pipeline overview
