@@ -18,11 +18,11 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 <sup>4</sup> *Australian Centre for Health Services Innovation and Centre for Healthcare Transformation, School of Public Health and Social Work, Faculty of Health, Queensland University of Technology, Brisbane, QLD, Australia*<br>
 <sup>5</sup> *SYNLAB MVZ Berlin GmbH, Berlin, Germany*
 
-#### Contributors
+### Contributors
 
 <table>
 <tr>
-<td valign="top">
+<td align="left" valign="top">
 
 **Data managers (2)**
 
@@ -30,25 +30,23 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 - Vladislav Nachev
 
 </td>
-<td valign="top">
+<td align="left" valign="top">
+
+**Data collectors (5)**
+
+- Yazid Zalai
+- Camila&nbsp;Victoria&#8209;Quilla&nbsp;Baselly&nbsp;Heibrich
+- Robert Schulz
+- Teresa Cunha-Oliveira
+- Parya Abbasi
+
+</td>
+<td align="left" valign="top">
 
 **Supervisors (2)**
 
 - Adrian Barnett
 - Tracey L. Weissgerber
-
-</td>
-</tr>
-<tr>
-<td colspan="2" valign="top">
-
-**Data collectors (5)**
-
-- Yazid Zalai
-- Camila Victoria-Quilla Baselly Heibrich
-- Robert Schulz
-- Teresa Cunha-Oliveira
-- Parya Abbasi
 
 </td>
 </tr>
