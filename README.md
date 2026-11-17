@@ -1,27 +1,21 @@
 ## Do journal policies reduce the use of bar graphs for visualizing continuous data? An observational study
 
-## Authors and Affiliations
-
-Teshome K. Deressa<sup>1,2</sup> (<a href="https://orcid.org/ORCID-ID-1">ORCID</a>),
-Yazid Zalai<sup>3</sup> (<a href="https://orcid.org/ORCID-ID-2">ORCID</a>),
-Adrian Barnett<sup>4</sup> (<a href="https://orcid.org/ORCID-ID-3">ORCID</a>),
-Camila Victoria-Quilla Baselly Heibrich<sup>3</sup> (<a href="https://orcid.org/ORCID-ID-4">ORCID</a>),
-Robert Schulz<sup>3</sup> (<a href="https://orcid.org/ORCID-ID-5">ORCID</a>),
-Teresa Cunha-Oliveira<sup>1,2</sup> (<a href="https://orcid.org/ORCID-ID-6">ORCID</a>),
-Parya Abbasi<sup>3,5</sup> (<a href="https://orcid.org/ORCID-ID-7">ORCID</a>),
-Tracey L. Weissgerber<sup>1,2,3</sup> (<a href="https://orcid.org/ORCID-ID-8">ORCID</a>),
-Vladislav Nachev<sup>3</sup> (<a href="https://orcid.org/ORCID-ID-9">ORCID</a>)
+Teshome K. Deressa<sup>1,2</sup> <a href="https://orcid.org/ORCID-ID-1"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Yazid Zalai<sup>3</sup> <a href="https://orcid.org/ORCID-ID-2"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Adrian Barnett<sup>4</sup> <a href="https://orcid.org/ORCID-ID-3"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Camila Victoria-Quilla Baselly Heibrich<sup>3</sup> <a href="https://orcid.org/ORCID-ID-4"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Robert Schulz<sup>3</sup> <a href="https://orcid.org/ORCID-ID-5"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Teresa Cunha-Oliveira<sup>1,2</sup> <a href="https://orcid.org/ORCID-ID-6"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Parya Abbasi<sup>3,5</sup> <a href="https://orcid.org/ORCID-ID-7"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Tracey L. Weissgerber<sup>1,2,3</sup> <a href="https://orcid.org/ORCID-ID-8"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/ORCID-ID-9"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>
 
 <br>
 
 <sup>1</sup> *CIBB, Center for Innovative Biomedicine and Biotechnology, University of Coimbra, Coimbra, Portugal*<br>
-
 <sup>2</sup> *CNC-UC, Center for Neuroscience and Cell Biology, University of Coimbra, Coimbra, Portugal*<br>
-
 <sup>3</sup> *QUEST Center for Responsible Research, Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Berlin, Germany*<br>
-
 <sup>4</sup> *Australian Centre for Health Services Innovation and Centre for Healthcare Transformation, School of Public Health and Social Work, Faculty of Health, Queensland University of Technology, Brisbane, QLD, Australia*<br>
-
 <sup>5</sup> *SYNLAB MVZ Berlin GmbH, Berlin, Germany*
 
 ---
