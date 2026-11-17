@@ -1,7 +1,7 @@
 ## Do journal policies reduce the use of bar graphs for visualizing continuous data? An observational study
 
 Teshome K. Deressa<sup>1,2</sup> <a href="https://orcid.org/0000-0003-1351-1849"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>,
-Yazid Zalai<sup>3</sup> <a href="https://orcid.org/ORCID-ID-2"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
+Yazid Zalai<sup>3</sup> <a href="https://orcid.org/0009-0006-0550-5974"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>,
 Adrian Barnett<sup>4</sup> <a href="https://orcid.org/ORCID-ID-3"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
 Camila Victoria-Quilla Baselly Heibrich<sup>3</sup> <a href="https://orcid.org/ORCID-ID-4"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
 Robert Schulz<sup>3</sup> <a href="https://orcid.org/ORCID-ID-5"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
