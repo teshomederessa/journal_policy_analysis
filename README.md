@@ -22,7 +22,15 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 
 <table>
 <tr>
-<td>
+<td width="30%">
+
+**Data managers (2)**
+
+- Teshome K. Deressa
+- Vladislav Nachev
+
+</td>
+<td width="40%">
 
 **Data collectors (5)**
 
@@ -32,10 +40,8 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 - Teresa Cunha-Oliveira
 - Parya Abbasi
 
-**Data managers (2)**
-
-- Teshome K. Deressa
-- Vladislav Nachev
+</td>
+<td width="30%">
 
 **Supervisors (2)**
 
