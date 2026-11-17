@@ -20,7 +20,7 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 
 #### Contributors
 
-<table width="100%">
+<table width="120%">
 <tr>
 <td width="25%" align="left" valign="top">
 
