@@ -18,6 +18,26 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 <sup>4</sup> *Australian Centre for Health Services Innovation and Centre for Healthcare Transformation, School of Public Health and Social Work, Faculty of Health, Queensland University of Technology, Brisbane, QLD, Australia*<br>
 <sup>5</sup> *SYNLAB MVZ Berlin GmbH, Berlin, Germany*
 
+### Contributors
+
+#### Data collectors (5)
+
+- Yazid Zalai
+- Camila Victoria-Quilla Baselly Heibrich
+- Robert Schulz
+- Teresa Cunha-Oliveira
+- Parya Abbasi
+
+#### Data managers (2)
+
+- Teshome K. Deressa
+- Vladislav Nachev
+
+#### Supervisors (2)
+
+- Adrian Barnett
+- Tracey L. Weissgerber
+
 ---
 - **Interactive dashboard:** [View the dashboard](https://excelscior-uc.github.io/journal-policy-dashboard/)
 - **Preregistration:** [Open the preregistration](https://osf.io/tcyxg/overview)
