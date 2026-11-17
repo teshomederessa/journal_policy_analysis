@@ -2,13 +2,13 @@
 
 Teshome K. Deressa<sup>1,2</sup> <a href="https://orcid.org/0000-0003-1351-1849"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>,
 Yazid Zalai<sup>3</sup> <a href="https://orcid.org/0009-0006-0550-5974"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>,
-Adrian Barnett<sup>4</sup> <a href="https://orcid.org/ORCID-ID-3"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
-Camila Victoria-Quilla Baselly Heibrich<sup>3</sup> <a href="https://orcid.org/ORCID-ID-4"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
-Robert Schulz<sup>3</sup> <a href="https://orcid.org/ORCID-ID-5"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
-Teresa Cunha-Oliveira<sup>1,2</sup> <a href="https://orcid.org/ORCID-ID-6"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
-Parya Abbasi<sup>3,5</sup> <a href="https://orcid.org/ORCID-ID-7"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
-Tracey L. Weissgerber<sup>1,2,3</sup> <a href="https://orcid.org/ORCID-ID-8"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>,
-Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/ORCID-ID-9"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="16" height="16" alt="ORCID"></a>
+Adrian Barnett<sup>4</sup> <a href="https://orcid.org/0000-0001-6339-0374"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>,
+Camila Victoria-Quilla Baselly Heibrich<sup>3</sup>,
+Robert Schulz<sup>3</sup> <a href="https://orcid.org/0000-0002-4830-309X"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>,
+Teresa Cunha-Oliveira<sup>1,2</sup> <a href="https://orcid.org/0000-0002-7382-0339"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>,
+Parya Abbasi<sup>3,5</sup>,
+Tracey L. Weissgerber<sup>1,2,3</sup> <a href="https://orcid.org/0000-0002-7490-2600"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>,
+Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><img src="https://orcid.org/assets/vectors/orcid.logo.icon.svg" width="14" height="14" alt="ORCID"></a>
 
 <br>
 
