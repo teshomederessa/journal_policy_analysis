@@ -18,11 +18,11 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 <sup>4</sup> *Australian Centre for Health Services Innovation and Centre for Healthcare Transformation, School of Public Health and Social Work, Faculty of Health, Queensland University of Technology, Brisbane, QLD, Australia*<br>
 <sup>5</sup> *SYNLAB MVZ Berlin GmbH, Berlin, Germany*
 
-### Contributors
+#### Contributions
 
 <table>
 <tr>
-<td width="27%" align="left" valign="top">
+<td width="26.5%" align="left" valign="top">
 
 **Data managers (2)**
 
@@ -30,7 +30,7 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 - Vladislav Nachev
 
 </td>
-<td width="44%" align="left" valign="top">
+<td width="46%" align="left" valign="top">
 
 **Data collectors (5)**
 
@@ -41,7 +41,7 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 - Parya Abbasi
 
 </td>
-<td width="29%" align="left" valign="top">
+<td width="28.5%" align="left" valign="top">
 
 **Supervisors (2)**
 
