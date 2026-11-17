@@ -30,7 +30,7 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 - Vladislav Nachev
 
 </td>
-<td width="45%" align="left" valign="top">
+<td width="44%" align="left" valign="top">
 
 **Data collectors (5)**
 
@@ -41,7 +41,7 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 - Parya Abbasi
 
 </td>
-<td width="28%" align="left" valign="top">
+<td width="29%" align="left" valign="top">
 
 **Supervisors (2)**
 
