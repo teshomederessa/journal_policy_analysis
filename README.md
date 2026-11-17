@@ -22,31 +22,31 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 
 <table>
 <tr>
-<td width="30%">
+<td width="30%" align="center" valign="middle">
 
 **Data managers (2)**
 
-- Teshome K. Deressa
-- Vladislav Nachev
+Teshome K. Deressa<br>
+Vladislav Nachev
 
 </td>
-<td width="40%">
+<td width="40%" align="center" valign="middle">
 
 **Data collectors (5)**
 
-- Yazid Zalai
-- Camila Victoria-Quilla Baselly Heibrich
-- Robert Schulz
-- Teresa Cunha-Oliveira
-- Parya Abbasi
+Yazid Zalai<br>
+Camila Victoria-Quilla Baselly Heibrich<br>
+Robert Schulz<br>
+Teresa Cunha-Oliveira<br>
+Parya Abbasi
 
 </td>
-<td width="30%">
+<td width="30%" align="center" valign="middle">
 
 **Supervisors (2)**
 
-- Adrian Barnett
-- Tracey L. Weissgerber
+Adrian Barnett<br>
+Tracey L. Weissgerber
 
 </td>
 </tr>
