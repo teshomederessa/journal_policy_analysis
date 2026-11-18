@@ -12,8 +12,6 @@ Vladislav Nachev<sup>3</sup> <a href="https://orcid.org/0000-0003-0521-6153"><im
 
 <br>
 
-<div style="font-size: 0.75em;">
-
 <sup>1</sup> *CIBB, Center for Innovative Biomedicine and Biotechnology, University of Coimbra, Coimbra, Portugal*<br>
 <sup>2</sup> *CNC-UC, Center for Neuroscience and Cell Biology, University of Coimbra, Coimbra, Portugal*<br>
 <sup>3</sup> *QUEST Center for Responsible Research, Berlin Institute of Health at Charité – Universitätsmedizin Berlin, Berlin, Germany*<br>
